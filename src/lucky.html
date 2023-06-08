@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <meta charset="UTF-8">
+  <title>简单抽奖页面</title>
+  <style>
+    body {
+      margin: 0;
+      padding: 0;
+      font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+    }
+
+    .container {
+      display: flex;
+      flex-direction: column;
+      justify-content: center;
+      align-items: center;
+      height: 100vh;
+    }
+
+    .title {
+      font-size: 36px;
+      margin-bottom: 50px;
+    }
+
+    .result {
+      font-size: 48px;
+      font-weight: bold;
+      color: #FFC107;
+      margin-bottom: 20px;
+    }
+
+    button {
+      font-size: 18px;
+      padding: 10px 20px;
+      border: none;
+      border-radius: 5px;
+      background-color: #2196F3;
+      color: #FFF;
+      cursor: pointer;
+    }
+  </style>
+</head>
+
+<body style="background-image: url('https://cdn.pixabay.com/photo/2021/11/14/19/11/entry-6795547_1280.jpg'); 
+background-repeat: no-repeat; background-size: cover;">
+  <div class="container">
+    <h1 class="title" style="text-align: center;font-size: 70px;color: #F5F5DC">简单抽奖页面</h1>
+    <p class="result"></p>
+    <button onClick="pickWinner()">抽奖</button>
+  </div>
+
+  <script>
+    function pickWinner () {
+      var candidates = ["张三", "李四", "王五", "赵六", "刘备", "关羽", "张飞"]
+      var winnerIndex = Math.floor(Math.random() * candidates.length)
+      var winner = candidates[winnerIndex]
+
+      document.querySelector(".result").innerHTML = "恭喜 " + winner + " 中奖了！"
+    }
+  </script>
+</body>
+
+</html>
