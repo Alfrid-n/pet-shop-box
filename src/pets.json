@@ -3,7 +3,7 @@
     "id": 0,
     "name": "端午狂欢电音节·北京站",
     "picture": "images/scottish-terrier.jpeg",
-    "left": 3,
+    "left": "0.3ETH",
     "time": "2023.06.22 周四 16:00",
     "area": "VIP区",
     "location": "北京HEAVEN CLUB"
@@ -12,7 +12,7 @@
     "id": 1,
     "name": "端午狂欢电音节·北京站",
     "picture": "images/scottish-terrier.jpeg",
-    "left": 3,
+    "left": "0.2ETH",
     "time": "2023.05.22 周四 16:00",
     "area": "普通区",
     "location": "Tooleville, West Virginia"
@@ -21,7 +21,7 @@
     "id": 2,
     "name": "Collins",
     "picture": "images/french-bulldog.jpeg",
-    "left": 2,
+    "left": "0.3ETH",
     "time": "2023.04.22 周四 16:00",
     "area": "VIP区",
     "location": "Freeburn, Idaho"
@@ -30,7 +30,7 @@
     "id": 3,
     "name": "郑钧2023全国巡回演唱会·北京站",
     "picture": "images/boxer.jpeg",
-    "left": 2,
+    "left": "0.3ETH",
     "time": "2023.06.22 周四 16:00",
     "area": "VIP区",
     "location": "Camas, Pennsylvania"
@@ -39,7 +39,7 @@
     "id": 4,
     "name": "Jeanine",
     "picture": "images/french-bulldog.jpeg",
-    "left": 2,
+    "left": "0.1ETH",
     "time": "2023.06.22 周四 16:00",
     "area": "普通区",
     "location": "Gerber, South Dakota"
@@ -48,7 +48,7 @@
     "id": 5,
     "name": "Elvia",
     "picture": "images/french-bulldog.jpeg",
-    "left": 3,
+    "left": "0.3ETH",
     "time": "2023.06.22 周四 16:00",
     "area": "VIP区",
     "location": "Innsbrook, Illinois"
@@ -57,7 +57,7 @@
     "id": 6,
     "name": "Latisha",
     "picture": "images/golden-retriever.jpeg",
-    "left": 3,
+    "left": "0.2ETH",
     "time": "2023.06.22 周四 16:00",
     "area": "普通区",
     "location": "Soudan, Louisiana"
@@ -66,7 +66,7 @@
     "id": 7,
     "name": "Coleman",
     "picture": "images/golden-retriever.jpeg",
-    "left": 3,
+    "left": "0.2ETH",
     "time": "2023.06.22 周四 16:00",
     "area": "VIP区",
     "location": "Jacksonwald, Palau"
@@ -84,7 +84,7 @@
     "id": 9,
     "name": "Fran",
     "picture": "images/boxer.jpeg",
-    "left": 3,
+    "left": "0.3ETH",
     "time": "2023.06.22 周四 16:00",
     "area": "VIP区",
     "location": "Matheny, Utah"
@@ -93,7 +93,7 @@
     "id": 10,
     "name": "Leonor",
     "picture": "images/boxer.jpeg",
-    "left": 2,
+    "left": "0.3ETH",
     "time": "2023.06.22 周四 16:00",
     "area": "VIP区",
     "location": "Tyhee, Indiana"
@@ -102,7 +102,7 @@
     "id": 11,
     "name": "Dean",
     "picture": "images/scottish-terrier.jpeg",
-    "left": 3,
+    "left": "0.3ETH",
     "time": "2023.06.22 周四 16:00",
     "area": "VIP区",
     "location": "Windsor, Montana"
@@ -111,7 +111,7 @@
     "id": 12,
     "name": "Stevenson",
     "picture": "images/french-bulldog.jpeg",
-    "left": 3,
+    "left": "0.3ETH",
     "time": "2023.06.22 周四 16:00",
     "area": "VIP区",
     "location": "Kingstowne, Nevada"
@@ -120,7 +120,7 @@
     "id": 13,
     "name": "Kristina",
     "picture": "images/golden-retriever.jpeg",
-    "left": 4,
+    "left": "0.3ETH",
     "time": "2023.06.22 周四 16:00",
     "area": "VIP区",
     "location": "Sultana, Massachusetts"
@@ -129,7 +129,7 @@
     "id": 14,
     "name": "Ethel",
     "picture": "images/golden-retriever.jpeg",
-    "left": 2,
+    "left": "0.3ETH",
     "time": "2023.06.22 周四 16:00",
     "area": "VIP区",
     "location": "Broadlands, Oregon"
@@ -138,7 +138,7 @@
     "id": 15,
     "name": "Terry",
     "picture": "images/golden-retriever.jpeg",
-    "left": 2,
+    "left": "0.3ETH",
     "time": "2023.06.22 周四 16:00",
     "area": "VIP区",
     "location": "Dawn, Wisconsin"
