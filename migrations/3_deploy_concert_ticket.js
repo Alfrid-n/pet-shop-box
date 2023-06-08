@@ -537,7 +537,7 @@ var _VRFv2Consumeraddress = "0x735e8ab0115128ed5dC1DA9603A201fc2c577644" ;
 var Web3 = require("web3")
 var web3 = new Web3(new Web3.providers.HttpProvider(localhost))
 
-var concertticketContract = new web3.eth.Contract(contract_abi, contract_address, _VRFv2Consumeraddress)
+var concertticketContract = new web3.eth.Contract(contract_abi, contract_address)
 concertticketContract.options.data = data;
 
 try{
