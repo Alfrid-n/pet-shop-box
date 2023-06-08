@@ -1,4 +1,4 @@
-# Pet Shop Truffle Box
+# CPC PAY
 
 This box has all you need to get started with our [Pet Shop tutorial](http://truffleframework.com/tutorial).
 
@@ -11,7 +11,7 @@ This box has all you need to get started with our [Pet Shop tutorial](http://tru
 
 2. Download the box. This also takes care of installing the necessary dependencies.
     ```javascript
-    truffle unbox pet-shop
+    git clone <仓库地址>
     ```
 
 3. Run the development console.
@@ -21,8 +21,8 @@ This box has all you need to get started with our [Pet Shop tutorial](http://tru
 
 4. Compile and migrate the smart contracts. Note inside the development console we don't preface commands with `truffle`.
     ```javascript
-    compile
-    migrate
+    truffle compile
+    truffle migrate
     ```
 
 5. Run the `liteserver` development server (outside the development console) for front-end hot reloading. Smart contract changes must be manually recompiled and migrated.
